@@ -1,0 +1,9 @@
+HOST = 'localhost'
+PORT = 6379
+
+DB_NAME = 'proxies'
+IP_MAX = 20
+IP_MIN = 10
+
+VALID_CHECK_CYCLE = 600
+POOL_LEN_CHECK_CYCLE = 20
